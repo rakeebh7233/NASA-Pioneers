@@ -66,8 +66,24 @@ The NASA Pioneers will create an interface allowing users to keep up-to-date and
 ## Schema 
 [This section will be completed in Unit 9]
 ### Models
-[Add table of models]
+
+   | Property      | Type     | Description |
+   | ------------- | -------- | ------------|
+   | imageOfDay    | JSON Object | API image for astronomy picture of the day |
+   | date          | String      | date of image for astronomy picture of day |
+   | imageMars     | JSON Object | API images taken by Mars rover on Mars |
+   | caption       | String   | details relating to the images caputured by rovers |
+   | weatherInfo   | JSON OBJECT | mars weather data fetched from API |
+   
+   
 ### Networking
-- [Add list of network requests by screen ]
+   - Picture of the Day
+      - (Read/GET) Retrieve image of the day from NASA API
+      - (Read/GET) Retrieve date information on image of day
+   - Mars Exploration
+      - (Read/GET) Retrieve Mars rover images 
+      - (Read/GET) Retrieve Mars weather data information     
+   - NASA Gallery
+      - (Read/GET) Retrieve a wide variety of images from NASA API
 - [Create basic snippets for each Parse network request]
-- [OPTIONAL: List endpoints if using existing API such as Yelp]
+
