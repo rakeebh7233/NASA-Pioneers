@@ -13,7 +13,7 @@ Original App Design Project - README Template
 
 ## Overview
 ### Description
-The NASA Pioneers will create a interface allowing users to keep up-to-date and refreshed on information and imagery of the celestial bodies ordibitng the neareast parts of our solar system. Our application will include astronomy photos of the day taken by NASA satellites, insights and updates on the Mars weather, images provided by the Mars rover, and access to a wide array of NASA images and video libraries accuulated by NASA projects over the years. The ultimate of our app is to inform the general public on and celebrate the day-to-day accomplishments of space exploration. 
+The NASA Pioneers will create an interface allowing users to keep up-to-date and refreshed on information and imagery of the celestial bodies orbiting the nearest parts of our solar system. Our application will include astronomy photos of the day taken by NASA satellites, insights and updates on the Mars weather, images provided by the Mars rover, and access to a wide array of NASA images and video libraries accumulated by NASA projects over the years. The ultimate of our app is to inform the general public on and celebrate the day-to-day accomplishments of space exploration.
 
 ### App Evaluation
 [Evaluation of your app across the following attributes]
