@@ -84,5 +84,3 @@ The NASA Pioneers will create an interface allowing users to keep up-to-date and
     - (Read/GET) Recieve Mar's Rover images
     - (Read/GET) Recieve Mar's weather data  
   
-- [Create basic snippets for each Parse network request]
-- [OPTIONAL: List endpoints if using existing API such as Yelp]
