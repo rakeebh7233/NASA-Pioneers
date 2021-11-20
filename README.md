@@ -72,9 +72,17 @@ The NASA Pioneers will create an interface allowing users to keep up-to-date and
    | APOD          | JSON Object | Astronomy Picture of the Day pulled from NASA API |
    | weatherInfo   | JSON Object | information of Mar's climate/weather |
    | MARSImage     | JSON Object | images of MARS taken by Mar's Rovers |
-   | gallery       | JSON Object | image caption by author |
+   | gallery       | JSON Object | general image media relating to space taken by NASA |
 
 ### Networking
-- [Add list of network requests by screen 
+#### Network requests by screen 
+  - Home Screen
+    - (Read/GET) Obtain Astonomy Picture of the Day
+  - Gallery
+    - (Read/GET) Recieve NASA image Library
+  - MARS
+    - (Read/GET) Recieve Mar's Rover images
+    - (Read/GET) Recieve Mar's weather data  
+  
 - [Create basic snippets for each Parse network request]
 - [OPTIONAL: List endpoints if using existing API such as Yelp]
