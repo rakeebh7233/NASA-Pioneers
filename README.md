@@ -64,10 +64,17 @@ The NASA Pioneers will create an interface allowing users to keep up-to-date and
 
 
 ## Schema 
-[This section will be completed in Unit 9]
 ### Models
-[Add table of models]
+#### Post
+
+   | Property      | Type     | Description |
+   | ------------- | -------- | ------------|
+   | APOD          | JSON Object | Astronomy Picture of the Day pulled from NASA API |
+   | weatherInfo   | JSON Object | information of Mar's climate/weather |
+   | MARSImage     | JSON Object | images of MARS taken by Mar's Rovers |
+   | gallery       | JSON Object | image caption by author |
+
 ### Networking
-- [Add list of network requests by screen ]
+- [Add list of network requests by screen 
 - [Create basic snippets for each Parse network request]
 - [OPTIONAL: List endpoints if using existing API such as Yelp]
